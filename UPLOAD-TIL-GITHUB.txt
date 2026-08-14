@@ -1,0 +1,13 @@
+Vores Camping v31.0 – REN GITHUB PAGES-PAKKE
+
+Denne pakke indeholder kun det, der er relevant for GitHub Pages plus dokumentation.
+Appen ligger i /docs og kan publiceres fra Branch: main, Folder: /docs.
+
+Browser-upload:
+1. Pak ZIP-filen ud på din computer.
+2. Åbn dit GitHub-repository.
+3. Upload filerne og mapperne fra denne mappe til repository-roden.
+4. Commit ændringerne.
+5. Settings > Pages > Deploy from a branch > main > /docs.
+
+optional-services og reference-kilder er bevidst udeladt fra denne pakke.
